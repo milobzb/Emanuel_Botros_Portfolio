@@ -1,4 +1,4 @@
-# Welcome to my Portfolio!
+nh# Welcome to my Portfolio!
 
 
 This repository contains my professional documents, including my **resume, academic transcript, and certifications**.  
@@ -6,8 +6,8 @@ This repository contains my professional documents, including my **resume, acade
 ## 📂 Contents  
 - 📄 **[Resume](Emanuel_Botros_Resume.pdf)** – My latest resume.  
 - 🎓 **[Transcript](Emanuel_Botros_Transcript.pdf)** – Academic records.  
-- 🏆 **[CompTIA Sec+](CompTIA_Security+_ce_Certificate)** – Cybersecurity certifications I have earned.  
-- 🏆 **[TestOut IT Pro Fundamentals](IT_Pro_Fundamentals_Certificate)** – IT certifications I have earned.  
+- 🏆 **[CompTIA Sec+](CompTIA_Security+_ce_Certificate.pdf)** – Cybersecurity certifications I have earned.  
+- 🏆 **[TestOut IT Pro Fundamentals](IT_Pro_Fundamentals_Certificate.pdf)** – IT certifications I have earned.  
 ## 🔍 How to Access  
 All files are provided in **PDF format** for easy viewing. Click on the links above or browse the repository to download them.  
 
