@@ -14,7 +14,7 @@ All files are provided in **PDF format** for easy viewing. Click on the links ab
 ## 📩 Contact Me  
 If you'd like to connect, feel free to reach out:  
 📧 Email: milobzb@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/milobzb](https://linkedin.com/in/yourusername)
+🔗 LinkedIn: [linkedin.com/in/milobzb](https://linkedin.com/in/milobzb)
 
 ---
 
